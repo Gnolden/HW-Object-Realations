@@ -2,5 +2,5 @@
 
 superuser:
 
-user:Irakli
-pass:Irakli123
+* user:Irakli
+* pass:Irakli123
